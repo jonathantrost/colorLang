@@ -12,7 +12,13 @@
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
-            "js": ["colorLang.js"]
+            "js": ["colorLang2.js"],
+			"css": ["colorLang.css"],
+			"exclude_matches": [
+				"https://*.office.com/*",
+				"https://*.office365.com/*",
+				"https://*.google.com/*"
+			]
         }
     ]
 }

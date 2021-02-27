@@ -1,0 +1,55 @@
+
+.color-a {color: rgb(240, 163, 255);}
+.color-b {color: rgb(0, 117, 220);}
+.color-c {color: rgb(153, 63, 0);}
+.color-d {color: rgb(76, 0, 92);}
+.color-e {color: rgb(80, 80, 80);}
+.color-f {color: rgb(0, 92, 49);}
+.color-g {color: rgb(43, 206, 72);}
+.color-h {color: rgb(255, 204, 153);}
+.color-i {color: rgb(128, 128, 128);}
+.color-j {color: rgb(148, 255, 181);}
+.color-k {color: rgb(143, 124, 0);}
+.color-l {color: rgb(157, 204, 0);}
+.color-m {color: rgb(194, 0, 136);}
+.color-n {color: rgb(0, 51, 128);}
+.color-o {color: rgb(255, 164, 5);}
+.color-p {color: rgb(255, 168, 187);}
+.color-q {color: rgb(66, 102, 0);}
+.color-r {color: rgb(255, 0, 16);}
+.color-s {color: rgb(94, 241, 242);}
+.color-t {color: rgb(0, 153, 143);}
+.color-u {color: rgb(224, 255, 102);}
+.color-v {color: rgb(116, 10, 255);}
+.color-w {color: rgb(153, 0, 0);}
+.color-x {color: rgb(255, 255, 128);}
+.color-y {color: rgb(255, 255, 0);}
+.color-z {color: rgb(255, 80, 0);}
+
+
+.color-a-only {color:rgb(240, 163, 255); background-color: rgb(240, 163, 255);}
+.color-b-only {color:rgb(0, 117, 220)  ; background-color: rgb(0, 117, 220);}
+.color-c-only {color:rgb(153, 63, 0)   ; background-color: rgb(153, 63, 0);}
+.color-d-only {color:rgb(76, 0, 92)    ; background-color: rgb(76, 0, 92);}
+.color-e-only {color:rgb(80, 80, 80)     ; background-color: rgb(80, 80, 80);}
+.color-f-only {color:rgb(0, 92, 49)    ; background-color: rgb(0, 92, 49);}
+.color-g-only {color:rgb(43, 206, 72)  ; background-color: rgb(43, 206, 72);}
+.color-h-only {color:rgb(255, 204, 153); background-color: rgb(255, 204, 153);}
+.color-i-only {color:rgb(128, 128, 128); background-color: rgb(128, 128, 128);}
+.color-j-only {color:rgb(148, 255, 181); background-color: rgb(148, 255, 181);}
+.color-k-only {color:rgb(143, 124, 0)  ; background-color: rgb(143, 124, 0);}
+.color-l-only {color:rgb(157, 204, 0)  ; background-color: rgb(157, 204, 0);}
+.color-m-only {color:rgb(194, 0, 136)  ; background-color: rgb(194, 0, 136);}
+.color-n-only {color:rgb(0, 51, 128)   ; background-color: rgb(0, 51, 128);}
+.color-o-only {color:rgb(255, 164, 5)  ; background-color: rgb(255, 164, 5);}
+.color-p-only {color:rgb(255, 168, 187); background-color: rgb(255, 168, 187);}
+.color-q-only {color:rgb(66, 102, 0)   ; background-color: rgb(66, 102, 0);}
+.color-r-only {color:rgb(255, 0, 16)   ; background-color: rgb(255, 0, 16);}
+.color-s-only {color:rgb(94, 241, 242) ; background-color: rgb(94, 241, 242);}
+.color-t-only {color:rgb(0, 153, 143)  ; background-color: rgb(0, 153, 143);}
+.color-u-only {color:rgb(224, 255, 102); background-color: rgb(224, 255, 102);}
+.color-v-only {color:rgb(116, 10, 255) ; background-color: rgb(116, 10, 255);}
+.color-w-only {color:rgb(153, 0, 0)    ; background-color: rgb(153, 0, 0);}
+.color-x-only {color:rgb(255, 255, 128); background-color: rgb(255, 255, 128);}
+.color-y-only {color:rgb(255, 255, 0)  ; background-color: rgb(255, 255, 0);}
+.color-z-only {color:rgb(255, 80, 0)   ; background-color: rgb(255, 80, 0);}
